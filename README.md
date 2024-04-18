@@ -24,8 +24,23 @@ Installation:
 
 Usage:
 
-    Adjust recoil parameters and set hotkeys through the application interface.
-    Manage profiles to quickly switch between different configurations.
+Upon launching, you'll encounter a user-friendly GUI with various input fields and options. Here's a breakdown to guide you through:
+
+    Set Profile Name: Enter a name for your recoil settings.
+    Horizontal Parameter: Minus values (-1 - -10) = left movements. positive values (1 - 10) = right movements.
+    Vertical Parameter: Similarly, this adjusts the vertical recoil control. Minus values for inverted Y Axis.
+    Game Process: Type in the game's executable (or any executable) name (like game.exe). Mydyk will specifically target this game for recoil control.
+    On/Off - Disable/Enable Recoil toggle.
+    Set UDP Flood Key - Activate and Deactivate UDP Flood.
+    Adjust Lag - Increase packets for UDP Flood.
+    Save, Delete and Select Profiles.
+    
+🕹️ How to Use
+After setting your preferences:
+Launch Your Game: Ensure the game specified in the "Game Process" field is running.
+Play as Usual: Once in-game, Mydyk will automatically manage the recoil based on your specified parameters whenever you press and hold the left mouse button (LButton).
+Tip: Mydyk is designed to operate only when the game (specified in "Game Process") is in focus, preventing any unintentional mouse movements outside the game.
+Note: If you play inverted use Minus values for Vertical Parameter.
     Use the UDP flood feature responsibly.
 
 Contribution:
