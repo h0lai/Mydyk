@@ -36,12 +36,14 @@ Upon launching, you'll encounter a user-friendly GUI with various input fields a
     Save, Delete and Select Profiles.
     
 🕹️ How to Use
+
 After setting your preferences:
+
 Launch Your Game: Ensure the game specified in the "Game Process" field is running.
 Play as Usual: Once in-game, Mydyk will automatically manage the recoil based on your specified parameters whenever you press and hold the left mouse button (LButton).
 Tip: Mydyk is designed to operate only when the game (specified in "Game Process") is in focus, preventing any unintentional mouse movements outside the game.
 Note: If you play inverted use Minus values for Vertical Parameter.
-    Use the UDP flood feature responsibly.
+Use the UDP flood feature responsibly.
 
 Contribution:
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
