@@ -18,6 +18,7 @@ Key Features:
 
 Installation:
 
+    Install .Net 4.8 (If you do not have it installed)
     Put all files in a folder titled Mydyk
     Run .exe as Admin
 
