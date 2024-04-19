@@ -6,7 +6,7 @@ Project Name: Mydyk
 
 Description:
 
-Mydyk is a comprehensive Windows Forms application designed to enhance gaming experiences through advanced features like dynamic recoil management and UDP flood capabilities for combatting aimbots. This project, built in C#, offers users the ability to fine-tune their gaming input through customizable recoil patterns and introduces network stress testing functionality. The application is structured to allow users to easily manage their settings through a user-friendly interface, providing tools such as hotkey support for on-the-fly adjustments, profile management for saving and loading configurations, and visual feedback on the current system status. Whether you're looking to gain a competitive edge in your favorite game or test your network's resilience, Mydyk offers a suite of tools catered to your needs.
+Mydyk is a comprehensive Windows Forms application designed to enhance gaming experiences through advanced features like dynamic recoil management and UDP flood capabilities for combatting aimbots. This project, built in C#, offers users the ability to fine-tune their gaming input through customizable recoil patterns and introduces UDP Flood functionality. The application is structured to allow users to easily manage their settings through a user-friendly interface, providing tools such as hotkey support for on-the-fly adjustments, profile management for saving and loading configurations, and visual feedback on the current system status. Whether you're looking to gain a competitive edge in your favorite game or test your network's resilience, Mydyk offers a suite of tools catered to your needs.
 
 Key Features:
 
