@@ -1,6 +1,8 @@
 # Mydyk
 Welcome to Mydyk, a customizable recoil handling &amp; UDP flood application built with C#. 
 
+    Source Code attached for those who want to change hardcoded hotkeys.
+
 Project Name: Mydyk
 ![Rogue No entry](https://github.com/h0lai/Mydyk/assets/37847231/78e804e7-86b1-401e-adfd-862595ab4593)
 
