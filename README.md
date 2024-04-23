@@ -4,6 +4,7 @@ Welcome to Mydyk, a customizable recoil handling &amp; UDP flood application bui
 Project Name: Mydyk
 ![Rogue No entry](https://github.com/h0lai/Mydyk/assets/37847231/78e804e7-86b1-401e-adfd-862595ab4593)
 
+![mydyk](https://github.com/h0lai/Mydyk/assets/37847231/a2f8d13d-6b6a-4485-8534-fe636f3a3cd7)
 Description:
 
 Mydyk is a comprehensive Windows Forms application designed to enhance gaming experiences through advanced features like dynamic recoil management and UDP flood capabilities for combatting aimbots. This project, built in C#, offers users the ability to fine-tune their gaming input through customizable recoil patterns and introduces UDP Flood functionality. The application is structured to allow users to easily manage their settings through a user-friendly interface, providing tools such as hotkey support for on-the-fly adjustments, profile management for saving and loading configurations, and visual feedback on the current UDP Flood status. Whether you're looking to gain a competitive edge in your favorite game or test your network's resilience, Mydyk offers a suite of tools catered to your needs.
