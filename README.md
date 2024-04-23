@@ -6,15 +6,16 @@ Project Name: Mydyk
 
 Description:
 
-Mydyk is a comprehensive Windows Forms application designed to enhance gaming experiences through advanced features like dynamic recoil management and UDP flood capabilities for combatting aimbots. This project, built in C#, offers users the ability to fine-tune their gaming input through customizable recoil patterns and introduces UDP Flood functionality. The application is structured to allow users to easily manage their settings through a user-friendly interface, providing tools such as hotkey support for on-the-fly adjustments, profile management for saving and loading configurations, and visual feedback on the current system status. Whether you're looking to gain a competitive edge in your favorite game or test your network's resilience, Mydyk offers a suite of tools catered to your needs.
+Mydyk is a comprehensive Windows Forms application designed to enhance gaming experiences through advanced features like dynamic recoil management and UDP flood capabilities for combatting aimbots. This project, built in C#, offers users the ability to fine-tune their gaming input through customizable recoil patterns and introduces UDP Flood functionality. The application is structured to allow users to easily manage their settings through a user-friendly interface, providing tools such as hotkey support for on-the-fly adjustments, profile management for saving and loading configurations, and visual feedback on the current UDP Flood status. Whether you're looking to gain a competitive edge in your favorite game or test your network's resilience, Mydyk offers a suite of tools catered to your needs.
 
 Key Features:
 
     Dynamic Recoil Management: Adjust your input on the fly with customizable horizontal and vertical parameters.
     UDP Flood Capability: Get the upper hand on aimbots, don't be a cunt and use this on legit players.
     Profile Management: Save and switch between configurations easily with profile support.
-    Hotkey Integration: Enable or disable features quickly using customizable hotkeys.
+    Hotkey Integration: Hardcoded, currently Num0 and Num3. See source to change and compile youreslf.
     User-friendly Interface: Navigate through the application's features with an intuitive GUI.
+    Overlay - Select saved profiles and see UDP Flood status.
 
 Installation:
 
