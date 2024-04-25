@@ -23,6 +23,7 @@ Key Features:
 Installation:
 
     Install .Net 4.8 (If you do not have it installed)
+    In Control Panel - make sure ASP .Net4.8 is installed with .NET4.8 in add remove windows programs
     Put all files in a folder titled Mydyk
     Run .exe as Admin
 
